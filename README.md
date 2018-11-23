@@ -4,7 +4,7 @@ When designing HPE applications and websites, please refer to [HPE BrandCentral 
 
 # HPE Simple Icons
 
-Hewlett Packard Enterprise has a set of bespoke icons classified as "simple" for use as glyphs or actionable elements for your app or website designs. Following the brand esthetic, all icons use a stroke based style, while social icons for brands like Twitter, Facebook or LinkedIn adhere to their brands style.
+Hewlett Packard Enterprise has a set of bespoke icons classified as "simple" for use as glyphs or actionable elements for your app or website design that is part of the larger "Visual Storytelling" aspect of HPE's brand. All icons use a stroke based style, while social icons for brands like Twitter, Facebook or LinkedIn adhere to their brands style.*
 
 ---
 
@@ -19,6 +19,8 @@ Hewlett Packard Enterprise has a set of bespoke icons classified as "simple" for
 ---
 
 Grommet icons come in three forms for designers. A **[Master File](https://github.com/hpe-design/icons/blob/master/hpe-simple-icons-1.7.sketch)** which allows you to add, copy, or edit all of the icons in one convenient file,  **[Individual SVG's](https://github.com/hpe-design/icons/tree/master/Icons%20-%20SVG)** if you just want to use individual vector based icons, and **[IndividualPNGs's](https://github.com/hpe-design/icons/tree/master/Icons%20-%20PNG)** if you just want to use individual pixel based icons.
+
+* All icons are are free to use and modify with no attribution.
 
 ---
 
