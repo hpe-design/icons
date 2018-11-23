@@ -18,7 +18,7 @@ Hewlett Packard Enterprise has a set of bespoke icons classified as "simple" for
 
 ---
 
-Grommet icons come in three forms for designers. A **[Master File](https://github.com/hpe-design/icons/blob/master/hpe-simple-icons-1.7.sketch)** which allows you to add, copy, or edit all of the icons in one convenient file,  **[Individual SVG's](https://github.com/hpe-design/icons/tree/master/Icons%20-%20SVG)** if you just want to use individual vector based icons, and **[IndividualPNGs's](https://github.com/hpe-design/icons/tree/master/Icons%20-%20PNG)** if you just want to use individual pixel based icons.
+HPE Icons come in three forms for designers. A **[Master File](https://github.com/hpe-design/icons/blob/master/hpe-simple-icons-1.7.sketch)** which allows you to add, copy, or edit all of the icons in one convenient file,  **[Individual SVG's](https://github.com/hpe-design/icons/tree/master/Icons%20-%20SVG)** if you just want to use individual vector based icons, and **[IndividualPNGs's](https://github.com/hpe-design/icons/tree/master/Icons%20-%20PNG)** if you just want to use individual pixel based icons.
 
 * All icons are are free to use and modify with no attribution.
 
